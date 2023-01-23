@@ -1,2 +1,3 @@
-# L-gicas-Simples
-Alguns projetos simples desenvolvidos no primeiro semestre da graduação.
+# Projetos-Simples
+
+Alguns projetos simples desenvolvidos no primeiro trimestre da graduação.
